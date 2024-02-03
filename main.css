@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: phetsarath ot;
+}
+.fadd{
+    text-align: center;
+    margin: 0 auto;
+background-color: rgb(199, 255, 226);
+    max-width: 500px;
+}
+#badd{
+    margin: 0 auto;
+}
+.fedit{
+    text-align: center;
+    margin: 0 auto;
+background-color: rgb(255, 164, 103);
+    max-width: 500px;
+}
+#bedit{
+    margin: 0 auto;
+}
