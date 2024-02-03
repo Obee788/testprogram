@@ -82,7 +82,7 @@ if (isset($_REQUEST['btn_insert'])) {
             <div class="form-group">
                 <label for="Record_datetime" class="col-sm3 contro-lable">Record_datetime</label>
                 <div class="col-sm6">
-                    <input type="date" name="txt_Record_datetime" class="form-contro" placeholder="Enter Record_datetime">
+                    <input type="time" name="txt_Record_datetime" class="form-contro" placeholder="Enter Record_datetime">
                 </div>
             </div>
             <div class="form-group">

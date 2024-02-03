@@ -35,7 +35,7 @@ require_once("connect.php");
                 <td><?php echo $row["product_price"];?></td>
                 <td><?php echo $row["QTY"];?></td>
                 <td><?php echo $row["Record_datetime"];?></td>
-                <td> <a href="edit.ph?update_id=<?php echo $row["id"];?>" class="btn btn-warning">Edit</a></td>
+                <td> <a href="edit.php?update_id=<?php echo $row["id"];?>" class="btn btn-warning">Edit</a></td>
                 <td> <a href="?delete_id=<?php echo $row["id"];?>" class="btn btn-danger">Delete</a></td>
             </tr>
 
